@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.1
+- Own icon in the in-game addon list.
+
 ## 1.1.0
 - Renamed to **QuickChannels** (`/qch`, `/quickchannels`).
 - Localization for all game client languages: enUS, ruRU, deDE, frFR, esES/esMX, itIT, ptBR, koKR, zhCN, zhTW.
