@@ -1,0 +1,25 @@
+## Interface: 16001, 11509, 20506, 38002, 50504, 120100, 120105, 120107
+## Title: QuickChannels
+## Notes: Compact modern chat channel bar
+## Notes-ruRU: Компактная современная панель чат-каналов
+## Notes-deDE: Kompakte, moderne Chatkanal-Leiste
+## Notes-frFR: Barre de canaux de discussion compacte et moderne
+## Notes-esES: Barra de canales de chat compacta y moderna
+## Notes-esMX: Barra de canales de chat compacta y moderna
+## Notes-itIT: Barra dei canali chat compatta e moderna
+## Notes-ptBR: Barra de canais de chat compacta e moderna
+## Notes-koKR: 간결하고 현대적인 채팅 채널 바
+## Notes-zhCN: 简洁现代的聊天频道条
+## Notes-zhTW: 簡潔現代的聊天頻道列
+## Version: @project-version@
+## Author: QuickChannels contributors
+## SavedVariables: QuickChannelsDB
+## Category: Chat
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+## X-License: MIT
+## X-Curse-Project-ID: 0
+## X-Wago-ID: 0
+## X-WoWI-ID: 0
+
+Locales.lua
+Core.lua
