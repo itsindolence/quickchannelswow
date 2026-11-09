@@ -15,7 +15,7 @@
 ## Author: QuickChannels contributors
 ## SavedVariables: QuickChannelsDB
 ## Category: Chat
-## IconTexture: Interface\Icons\INV_Misc_Note_01
+## IconTexture: InterfaceAddOnsQuickChannelsicon
 ## X-License: MIT
 ## X-Curse-Project-ID: 0
 ## X-Wago-ID: 0
