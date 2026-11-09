@@ -17,7 +17,7 @@
 ## Category: Chat
 ## IconTexture: Interface\AddOns\QuickChannels\icon
 ## X-License: MIT
-## X-Curse-Project-ID: 0
+## X-Curse-Project-ID: 1793121
 ## X-Wago-ID: 0
 ## X-WoWI-ID: 0
 
